@@ -1,7 +1,9 @@
 # Authors
 Gerard Capes
+John Smith
 
 # Title
+Moduel-measurement comparison of 
 Secondary organic aerosol measurements over west Africa.
 
 # INtroduction
