@@ -21,5 +21,10 @@ we used an aerosol mass spectrometer to measure
 John has a great module which simulates
 particle information from forest fire emissions.
 
+# Results
+we got vauable insight into the particle 
+formation process.
+
 # Conclusions
 Aren't we great we found out some stuff.
+
