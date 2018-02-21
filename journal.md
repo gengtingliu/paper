@@ -1,6 +1,6 @@
 # Authors
-Gerard Capes
 John Smith
+Gerard Capes
 
 # Title
 Moduel-measurement comparison of 
