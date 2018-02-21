@@ -28,3 +28,7 @@ formation process.
 # Conclusions
 Aren't we great we found out some stuff.
 
+# Figures
+This is where the figures go
+- fig 1
+- fig 2
