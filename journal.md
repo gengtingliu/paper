@@ -1,6 +1,8 @@
 # Authors
-Gerard Capes
+Gerard Capes U of elsewhere
 John Smith UoM
+
+>>>>>>> 69cbed24c61d2e14cd517ac9e419578708a68f87
 
 # Title
 Moduel-measurement comparison of 
