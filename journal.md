@@ -32,3 +32,7 @@ Aren't we great we found out some stuff.
 This is where the figures go
 - fig 1
 - fig 2
+
+# Acknowledgements
+We thank the EU for the funding grant.
+RIP.(?) :(
